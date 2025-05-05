@@ -39,9 +39,4 @@ A React Native iOS app that connects to an automatic pill dispenser and alerts y
 
 ---
 
-## 📥 Installation
 
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/yourusername/engineering-wizards.git
-   cd engineering-wizards
