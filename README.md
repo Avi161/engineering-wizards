@@ -6,7 +6,8 @@ A React Native iOS app that connects to an automatic pill dispenser and alerts y
 
 ## 📸 Screenshot
 
-![Engineering Wizards Screenshot](./assets/screenshot.png)
+![image](https://github.com/user-attachments/assets/7896069e-299b-4bf5-9d50-4ae0be3e4493)
+
 
 ---
 
